@@ -1,2 +1,4 @@
-# 100-days-of-python
-My code from the 100 days of python Udemy course
+# Python Learning
+
+My python code from Udemy and other online courses are here
+
