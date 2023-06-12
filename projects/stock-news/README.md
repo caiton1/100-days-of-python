@@ -10,4 +10,4 @@ Because this project uses API keys that are specific to me, I do not want to dis
 | NEWSKEY      | API key to https://newsapi.org/    |
 | TWILIO_ACC | Account number in https://twilio.com     |
 | TWILIO_TOKEN | Token from https://twilio.com |
-| MY_CELL | Phone number to sent alers to    |
+| MY_CELL | Phone number to sent alerts to    |
