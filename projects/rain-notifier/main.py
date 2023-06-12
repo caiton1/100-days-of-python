@@ -4,9 +4,9 @@ import os
 
 # storing endpoint and authentication in variables
 owm_endpoint = "https://api.openweathermap.org/data/2.5/onecall"
-api_key = os.environ("OWM_KEY")
+api_key = os.getenv("OWM_KEY")
 twilio_account = "ACe1f7a1ffda429261f74fdb0c538c016e"
-twilio_token = os.environ("OWM_TOKEN")
+twilio_token = os.getenv("OWM_TOKEN")
 
 # dictionary that will be passed in the request parameters
 weather_params = {
